@@ -1,0 +1,8 @@
+D:\Учеба\LaGuardia\Fall 2022\MAC109\lab1\bin\Debug\lab1.exe.config
+D:\Учеба\LaGuardia\Fall 2022\MAC109\lab1\bin\Debug\lab1.exe
+D:\Учеба\LaGuardia\Fall 2022\MAC109\lab1\bin\Debug\lab1.pdb
+D:\Учеба\LaGuardia\Fall 2022\MAC109\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\Учеба\LaGuardia\Fall 2022\MAC109\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\LaGuardia\Fall 2022\MAC109\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\Учеба\LaGuardia\Fall 2022\MAC109\lab1\obj\Debug\lab1.exe
+D:\Учеба\LaGuardia\Fall 2022\MAC109\lab1\obj\Debug\lab1.pdb
