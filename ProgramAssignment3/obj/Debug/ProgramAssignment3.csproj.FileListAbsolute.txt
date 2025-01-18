@@ -1,0 +1,11 @@
+D:\Учеба\LaGuardia\Fall 2022\MAC109\ProgramAssignment3\bin\Debug\ProgramAssignment3.exe.config
+D:\Учеба\LaGuardia\Fall 2022\MAC109\ProgramAssignment3\bin\Debug\ProgramAssignment3.exe
+D:\Учеба\LaGuardia\Fall 2022\MAC109\ProgramAssignment3\bin\Debug\ProgramAssignment3.pdb
+D:\Учеба\LaGuardia\Fall 2022\MAC109\ProgramAssignment3\obj\Debug\ProgramAssignment3.csproj.AssemblyReference.cache
+D:\Учеба\LaGuardia\Fall 2022\MAC109\ProgramAssignment3\obj\Debug\ProgramAssignment3.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\LaGuardia\Fall 2022\MAC109\ProgramAssignment3\obj\Debug\ProgramAssignment3.Form1.resources
+D:\Учеба\LaGuardia\Fall 2022\MAC109\ProgramAssignment3\obj\Debug\ProgramAssignment3.Properties.Resources.resources
+D:\Учеба\LaGuardia\Fall 2022\MAC109\ProgramAssignment3\obj\Debug\ProgramAssignment3.csproj.GenerateResource.cache
+D:\Учеба\LaGuardia\Fall 2022\MAC109\ProgramAssignment3\obj\Debug\ProgramAssignment3.csproj.CoreCompileInputs.cache
+D:\Учеба\LaGuardia\Fall 2022\MAC109\ProgramAssignment3\obj\Debug\ProgramAssignment3.exe
+D:\Учеба\LaGuardia\Fall 2022\MAC109\ProgramAssignment3\obj\Debug\ProgramAssignment3.pdb
