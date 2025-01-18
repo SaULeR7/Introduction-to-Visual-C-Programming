@@ -1,0 +1,11 @@
+D:\Учеба\LaGuardia\Fall 2022\MAC109\WFormsApp\bin\Debug\WFormsApp.exe.config
+D:\Учеба\LaGuardia\Fall 2022\MAC109\WFormsApp\bin\Debug\WFormsApp.exe
+D:\Учеба\LaGuardia\Fall 2022\MAC109\WFormsApp\bin\Debug\WFormsApp.pdb
+D:\Учеба\LaGuardia\Fall 2022\MAC109\WFormsApp\obj\Debug\WFormsApp.csproj.AssemblyReference.cache
+D:\Учеба\LaGuardia\Fall 2022\MAC109\WFormsApp\obj\Debug\WFormsApp.csproj.SuggestedBindingRedirects.cache
+D:\Учеба\LaGuardia\Fall 2022\MAC109\WFormsApp\obj\Debug\WFormsApp.Properties.Resources.resources
+D:\Учеба\LaGuardia\Fall 2022\MAC109\WFormsApp\obj\Debug\WFormsApp.csproj.GenerateResource.cache
+D:\Учеба\LaGuardia\Fall 2022\MAC109\WFormsApp\obj\Debug\WFormsApp.csproj.CoreCompileInputs.cache
+D:\Учеба\LaGuardia\Fall 2022\MAC109\WFormsApp\obj\Debug\WFormsApp.exe
+D:\Учеба\LaGuardia\Fall 2022\MAC109\WFormsApp\obj\Debug\WFormsApp.pdb
+D:\Учеба\LaGuardia\Fall 2022\MAC109\WFormsApp\obj\Debug\WFormsApp.Form1.resources
